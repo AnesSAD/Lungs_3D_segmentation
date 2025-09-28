@@ -10,3 +10,5 @@ Ce projet personnelle est à seul but educatif sur les technique de traitement d
 
 
 - Apprendre les différentes techniques de traitement d'image avec scikit learn, scipy image, open-cv etc.
+
+![Demo 3D](/docs/lungs.gif)
